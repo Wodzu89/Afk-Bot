@@ -6,9 +6,9 @@
     },
 
     "server":{
-        "ip": "localhost",
+        "ip": "demoncraft.eu",
         "port": 25565,
-        "version": "1.16.4"
+        "version": "1.17"
     },
 
     "position":{
@@ -26,7 +26,8 @@
 
         "anti-afk":{
             "enabled": false,
-            "sneak": false
+            "sneak": true
+            
         },
 
         "chat-messages":{
